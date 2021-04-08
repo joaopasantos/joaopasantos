@@ -18,4 +18,4 @@
   Já tenho uma boa noção de Inglês. Mas queria expandir um pouco mais e aprender outra língua. O principal candidato é  Japonês, por conta da quantidade de conteúdo de origem japonesa que eu consumo, como livros, mangás e jogos.
 </details>
 
-<center><img src="images/klonoa.png"></center>
+<img src="images/klonoa.png" align="center">
