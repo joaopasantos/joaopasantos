@@ -7,5 +7,5 @@
     <br><br>:coffee: Quer saber mais sobre mim? :point_right: Acesse meu <a href="https://www.linkedin.com/in/joaopasantos/">LinkedIn</a>.
   </samp>
 </p>
-
+<br><br>
 <p align="center"><img src="images/klonoa.png"></p>
