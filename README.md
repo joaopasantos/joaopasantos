@@ -1,6 +1,5 @@
 <p align="center">
   <!-- <img src="images/klonoa-dark.gif" width="50px"> -->
-  <br><br>
   <samp>
     :wave: Oi! Meu nome é João Pedro.
     <br>Eu tenho 19 anos, e sou formado em Análise de Sistemas.
