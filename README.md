@@ -1,11 +1,6 @@
-<p align="center">
-  <!-- <img src="images/klonoa-dark.gif" width="50px"> -->
-  <samp>
-    :wave: Oi! Meu nome é João Pedro.
-    <br>Eu tenho 19 anos, e sou formado em Análise de Sistemas.
-    <br>Tenho dado alguns pulos em <b>JS</b>, <b>C</b> e <b>Java</b>, e já tenho <br>alguns repositórios publicados aqui no GitHub.
-    <br><br>:coffee: Quer saber mais sobre mim? :point_right: Acesse meu <a href="https://www.linkedin.com/in/joaopasantos/">LinkedIn</a>.
-  </samp>
-</p>
-<br><br>
-<p align="center"><img src="images/klonoa.png"></p>
+####<code>joaopasantos@github:~$ whoami</code>
+Olá! Meu nome é João Pedro. Tenho 19 anos.<img width="45%" align= "right" src="images/kidult.jpg">
+Sou formado em Análise de Sistemas, e estou cursando Ciência da Computação.
+Ainda não tenho uma linguagem de foco, mas já desenvolvi alguns projetos utilizando **C**, **Java**, **Python**, e **JS**. 
+Atualmente estou estudando **PHP**, e futuramente pretendo estudar **Node.js** e **Angular**.
+___
