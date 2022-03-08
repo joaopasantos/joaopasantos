@@ -7,8 +7,8 @@ Você também consegue me encontrar no [**LinkedIn**](https://www.linkedin.com/i
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   1 hr 4 mins     ███████████████████████░░   91.53 %
-Lua        6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 %
+Markdown   39 mins         ████████████████████████▒   96.90 %
+Lua        1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
 ```
 
 <!--END_SECTION:waka-->
