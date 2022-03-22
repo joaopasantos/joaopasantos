@@ -7,8 +7,7 @@ Você também consegue me encontrar no [**LinkedIn**](https://www.linkedin.com/i
 <!--START_SECTION:waka-->
 
 ```text
-Ruby   17 mins         █████████████████████▓░░░   86.25 %
-Lua    2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.75 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
