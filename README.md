@@ -8,6 +8,7 @@ Você também consegue me encontrar no [**LinkedIn**](https://www.linkedin.com/i
 
 ```text
 Java   3 hrs 3 mins    █████████████████████████   100.00 %
+JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
