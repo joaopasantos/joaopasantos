@@ -7,8 +7,8 @@ Você também consegue me encontrar no [**LinkedIn**](https://www.linkedin.com/i
 <!--START_SECTION:waka-->
 
 ```text
-Go     3 hrs 28 mins   ███████████████████▒░░░░░   77.70 %
-JSON   59 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.30 %
+JSON   1 hr 5 mins     ████████████████████████░   96.63 %
+Go     2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
 ```
 
 <!--END_SECTION:waka-->
