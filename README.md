@@ -7,9 +7,7 @@ Você também consegue me encontrar no [**LinkedIn**](https://www.linkedin.com/i
 <!--START_SECTION:waka-->
 
 ```text
-Go     4 hrs 7 mins    ██████████████████████▒░░   89.99 %
-SQL    21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
-YAML   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+Go   2 hrs 47 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
