@@ -7,8 +7,8 @@ Você também consegue me encontrar no [**LinkedIn**](https://www.linkedin.com/i
 <!--START_SECTION:waka-->
 
 ```text
-Python   1 hr 25 mins    ██████████████████▓░░░░░░   75.23 %
-Go       28 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.77 %
+Python   1 hr 25 mins    ██████████████████▒░░░░░░   73.66 %
+Go       30 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.34 %
 ```
 
 <!--END_SECTION:waka-->
