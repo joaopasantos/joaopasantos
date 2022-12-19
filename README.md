@@ -7,7 +7,8 @@ Você também consegue me encontrar no [**LinkedIn**](https://www.linkedin.com/i
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+CSS          0 secs          █████████████████░░░░░░░░   67.93 %
+JavaScript   0 secs          ████████░░░░░░░░░░░░░░░░░   32.07 %
 ```
 
 <!--END_SECTION:waka-->
