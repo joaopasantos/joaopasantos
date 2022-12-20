@@ -7,8 +7,11 @@ Você também consegue me encontrar no [**LinkedIn**](https://www.linkedin.com/i
 <!--START_SECTION:waka-->
 
 ```text
-CSS          0 secs          █████████████████░░░░░░░░   67.93 %
-JavaScript   0 secs          ████████░░░░░░░░░░░░░░░░░   32.07 %
+TypeScript   5 hrs 52 mins   ████████████████████████▒   97.07 %
+JSON         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
