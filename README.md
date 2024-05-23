@@ -1,5 +1,5 @@
-<h4><code>joaopasantos@github:~$ whoami</code></h4>
+```joaopasantos@github:~$ whoami```
 
-Olá! Meu nome é João Pedro. Tenho 20 anos.\
-Sou formado em Análise de Sistemas, e estou cursando Ciência da Computação.\
-Você também consegue me encontrar no [**LinkedIn**](https://www.linkedin.com/in/joaopasantos/).
+Born in 2001.
+Working as an IT Analyst.
+Currently working with COBOL and Java.
